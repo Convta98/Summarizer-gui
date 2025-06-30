@@ -1,0 +1,2 @@
+# Summarizer-gui
+Summarizes documents
